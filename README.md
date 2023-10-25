@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Agamdeep Singh
 ======================================================================================================================================
 
-Machine Learning Engineer
+AI Engineer (Founder: Poze)
 -------------------------
 
 I've been coding for 5+ years and am currently pursuing a major in data science and engineering. I'm also an undergraduate research at the Multi-Robot Autonomy Lab at IISER Bhopal where I'm working on collision avoidance algorithms. I was an intern at CiSTUP, IISc Bangalore, where I worked on Geospatial data-analysis and path planning.
