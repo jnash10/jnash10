@@ -9,10 +9,9 @@ Industrial experience at Collablens.
 I've been coding for 5+ years and am currently pursuing a major in data science and engineering. I'm also an undergraduate research at the Multi-Robot Autonomy Lab at IISER Bhopal where I'm working on collision avoidance algorithms. I was an intern at CiSTUP, IISc Bangalore, where I worked on Geospatial data-analysis and path planning.
 
 * 🌍  I'm based in Bhopal / Chandigarh
-* 🖥️  See my portfolio at [agamdeep.net](http://agamdeeo.net)
 * ✉️  You can contact me at [agamdeep20@iiserb.ac.in](mailto:agamdeep20@iiserb.ac.in)
-* 🧠  I'm learning Diffusion models
-* 🤝  I'm open to collaborating on collision avoidance, optimization and computer vision projects.
+* 🧠  I'm learning to build RAGs and Pose comparison models.
+* 🤝  I'm open to collaborating on computer vision projects.
 * ⚡  I love playing football(soccer) and tennis.
 
 ### Skills
