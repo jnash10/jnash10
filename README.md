@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 Quick Facts
-
+- Research Fellow at Microsoft - PROSE Excel Research 
 - 🎓 M.Tech & B.Tech in Data Science & Engineering from IISER Bhopal
 - 🧠 Founder of Protomate AI, working on mental health solutions
 - 💻 Full-stack developer with a passion for AI and Computer Vision
